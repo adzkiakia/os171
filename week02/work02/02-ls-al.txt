@@ -1,0 +1,6 @@
+total 8
+drwxr-xr-x 2 adzkia.husnul StafCS 4096 Feb 20 12:20 .
+drwxr-xr-x 3 adzkia.husnul StafCS 4096 Feb 19 22:50 ..
+-rw-r--r-- 1 adzkia.husnul StafCS    0 Feb 19 23:21 00-toc.txt
+-rw-r--r-- 1 adzkia.husnul StafCS    0 Feb 19 23:22 01-public-osteam.txt
+-rw-r--r-- 1 adzkia.husnul StafCS    0 Feb 20 12:20 02-ls-al.txt

@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/a/adzkia.husnul/.gnupg/pubring.gpg
+-----------------------------------------------------------
+pub   4096R/D54602CB 2017-02-20 [expires: 2017-08-19]
+uid                  Adzkia Husnul Abidat (studying OS is fun!) <adzkia.husnul@ui.ac.id>
+sub   4096R/CE5A2B08 2017-02-20 [expires: 2017-08-19]
+
