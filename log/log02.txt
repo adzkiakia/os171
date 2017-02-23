@@ -1,2 +1,5 @@
-w01-170220-14-PR-About:Privacy Matters, Encryption, and Digital Signature using GnuPG
-w01-170220-15-PR-About:Intro to C
+w02-170220-14-PR-About:Privacy Matters, Encryption, and Digital Signature using GnuPG
+w02-170220-15-PR-About: Intro to C
+w02-170220-15-DS-About: OS Lab week2 
+w02-170223-10-LR-About: Intro to C, From Lecturer
+w02-170223-11-LR-About: Intro to C, From Lecturer
