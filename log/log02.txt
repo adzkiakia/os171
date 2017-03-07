@@ -7,6 +7,12 @@ w02-170223-11-LR-About: Intro to C, From Lecturer
 =======
 w02-170220-15-PR-About:Intro to C
 w02-170221-15-PR-About: Coding C
-w02-170221-16-PR-About: Coding C
 w02-170221-16-PS-Discuss About Week02 Task
+<<<<<<< HEAD
 >>>>>>> 6ca9266eb3400235017e8af26aa1cc33d6e5b988
+=======
+w02-170221-16-PR-About: Coding C
+w02-170223-10-LR-About: Intro to C, From Lecturer
+w02-170223-10-LR-About: Intro to C, From Lecturer
+w02-170223-11-LR-About: Intro to C, From Lecturer
+>>>>>>> ab097e9d41765baa4b4e282502fe45021df64f52
