@@ -1,0 +1,5 @@
+w05-170313-10-LR-About: Memory, From Lecturer
+w05-170313-11-LR-About: Memory, From Lecturer
+w05-170316-10-PR-About: Memory
+w05-170316-10-PR-About: program top, fields management
+
