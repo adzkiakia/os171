@@ -1,0 +1,8 @@
+w07-170418-10-LR-About: Synchronization, From: Lecturer 
+w07-170418-10-LR-About: Synchronization, From: Lecturer 
+w07-170418-11-LR-About: Synchronization, From: Lecturer 
+w07-170418-11-LR-About: Synchronization, From: Lecturer 
+w07-170420-10-LR-About: Exercise About Synchronization, From: Lecturer 
+w07-170420-10-LR-About: Exercise About Synchronization, From: Lecturer 
+w07-170420-11-LR-About: Exercise About Synchronization, From: Lecturer 
+w07-170420-11-LR-About: Exercise About Synchronization, From: Lecture
